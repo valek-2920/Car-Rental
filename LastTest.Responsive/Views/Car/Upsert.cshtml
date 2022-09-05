@@ -1,0 +1,48 @@
+﻿@model CarViewModel
+
+@{
+    ViewData["Title"] = "Upsert";
+}
+
+<form method="post" asp-action="Upsert">
+    <input asp-for="Car.Placa" hidden />
+    <div class="form-row">
+            <div class="border p-3 mt-4 row">
+                <div class="col-12 pb-2">
+                    <h2 class="text-primary">@(Model.Car.Placa!=0?"Actualizar": "Crear")  carro</h2>
+                    <hr />
+                </div>
+                <div class="form-group col-md-6">
+                    <label asp-for="Car.Modelo"></label>
+                    <input asp-for="Car.Modelo" class="form-control" />
+                    <span asp-validation-for="Car.Modelo" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-7">
+                    <label asp-for="Car.Marca"></label>
+                    <textarea asp-for="Car.Marca" rows="5" class="form-control"></textarea>
+                    <span asp-validation-for="Car.Marca" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-6">
+                    <label asp-for="Car.AnnoFabricacion"></label>
+                    <input asp-for="Car.AnnoFabricacion" class="form-control" type="date" />
+                    <span asp-validation-for="Car.AnnoFabricacion" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-10 pb-2">
+                     <a asp-controller="Car" asp-action="Index" class="btn btn-danger" style="width:150px">
+                        Regresar a la lista
+                    </a>
+                    @if (Model.Car.Placa != 0)
+                    {
+                        <button type="submit" class="btn btn-primary" style="width:150px">Actualizar</button>
+                    }
+                    else
+                    {
+                        <button type="submit" class="btn btn-primary" style="width:150px">Insertar</button>
+                    }
+                </div>
+            </div>
+    </div>
+</form>
+
+

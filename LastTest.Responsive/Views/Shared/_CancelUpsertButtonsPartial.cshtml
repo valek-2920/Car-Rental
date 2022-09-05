@@ -1,0 +1,17 @@
+﻿@model string
+
+<div class="form-group inputs">
+         <a asp-controller="Administration" asp-action="Index" class="btn btn-danger" style="width:150px">
+           Regresar a la lista </a>
+    <button id="submit" type="submit" class="btn btn-outline-primary">
+        <i class="fa-solid fa-floppy-disk"></i>
+        @if (!string.IsNullOrEmpty(Model))
+        {
+            <span>Actualizar</span>
+        }
+        else
+        {
+            <span>Crear</span>
+        }
+    </button>
+</div>

@@ -1,0 +1,36 @@
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest_Application\bin\Debug\net5.0\LastTest.Application.deps.json
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest_Application\bin\Debug\net5.0\LastTest.Application.runtimeconfig.json
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest_Application\bin\Debug\net5.0\LastTest.Application.runtimeconfig.dev.json
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest_Application\bin\Debug\net5.0\LastTest.Application.dll
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest_Application\bin\Debug\net5.0\LastTest.Application.pdb
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest_Application\bin\Debug\net5.0\LastTest.Domain.dll
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest_Application\bin\Debug\net5.0\LastTest.Domain.pdb
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest_Application\obj\Debug\net5.0\LastTest.Application.csproj.AssemblyReference.cache
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest_Application\obj\Debug\net5.0\LastTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest_Application\obj\Debug\net5.0\LastTest.Application.AssemblyInfoInputs.cache
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest_Application\obj\Debug\net5.0\LastTest.Application.AssemblyInfo.cs
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest_Application\obj\Debug\net5.0\LastTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest_Application\obj\Debug\net5.0\LastTest.Application.csproj.CopyComplete
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest_Application\obj\Debug\net5.0\LastTest.Application.dll
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest_Application\obj\Debug\net5.0\refint\LastTest.Application.dll
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest_Application\obj\Debug\net5.0\LastTest.Application.pdb
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest_Application\obj\Debug\net5.0\LastTest.Application.genruntimeconfig.cache
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest_Application\obj\Debug\net5.0\ref\LastTest.Application.dll
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest_Application\bin\Debug\net5.0\LastTest.Application.deps.json
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest_Application\bin\Debug\net5.0\LastTest.Application.runtimeconfig.json
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest_Application\bin\Debug\net5.0\LastTest.Application.runtimeconfig.dev.json
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest_Application\bin\Debug\net5.0\LastTest.Application.dll
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest_Application\bin\Debug\net5.0\LastTest.Application.pdb
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest_Application\bin\Debug\net5.0\LastTest.Domain.dll
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest_Application\bin\Debug\net5.0\LastTest.Domain.pdb
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest_Application\obj\Debug\net5.0\LastTest.Application.csproj.AssemblyReference.cache
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest_Application\obj\Debug\net5.0\LastTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest_Application\obj\Debug\net5.0\LastTest.Application.AssemblyInfoInputs.cache
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest_Application\obj\Debug\net5.0\LastTest.Application.AssemblyInfo.cs
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest_Application\obj\Debug\net5.0\LastTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest_Application\obj\Debug\net5.0\LastTest.Application.csproj.CopyComplete
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest_Application\obj\Debug\net5.0\LastTest.Application.dll
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest_Application\obj\Debug\net5.0\refint\LastTest.Application.dll
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest_Application\obj\Debug\net5.0\LastTest.Application.pdb
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest_Application\obj\Debug\net5.0\LastTest.Application.genruntimeconfig.cache
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest_Application\obj\Debug\net5.0\ref\LastTest.Application.dll

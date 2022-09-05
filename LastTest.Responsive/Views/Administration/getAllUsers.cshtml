@@ -1,0 +1,83 @@
+﻿@model UsersViewModel
+
+@{
+    ViewData["Title"] = "getAllUsers";
+}
+
+<style>
+
+    .header {
+        margin-bottom: 20px;
+    }
+
+        .header h3 {
+            margin-bottom: 5px;
+            margin-top: 25px;
+        }
+
+    .separator {
+        height: 1px;
+        background: #e8e8e8;
+        margin: 0px -25px;
+    }
+
+    .inputs {
+        margin-top: 25px;
+    }
+
+        .inputs label {
+            letter-spacing: 1px;
+            margin-bottom: 7px;
+        }
+
+        .inputs #submit {
+            width: 100%;
+            margin-top: 20px;
+            padding: 15px 0;
+            letter-spacing: 1px;
+        }
+</style>
+
+<div class="form-row">
+    <div class="form-group col-8">
+        <div class="form-group header">
+            <h3>Roles</h3>
+        </div>
+
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Usuario
+                    </th>
+                    <th>
+                       Role
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                 @for (int i = 0; i < Model.UsersAll.Count; i++)
+            {
+                    <tr>
+                    <td>
+                       @Model.UsersAll[i].Email
+                    </td>
+                    <td>
+                       @Model.UsersAll[i].Role.FirstOrDefault()
+                    </td>
+                </tr>
+
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>
+
+@section Scripts
+    {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+

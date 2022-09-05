@@ -1,0 +1,40 @@
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\bin\Debug\net5.0\LastTest.Infrastructure.deps.json
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\bin\Debug\net5.0\LastTest.Infrastructure.runtimeconfig.json
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\bin\Debug\net5.0\LastTest.Infrastructure.runtimeconfig.dev.json
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\bin\Debug\net5.0\LastTest.Infrastructure.dll
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\bin\Debug\net5.0\LastTest.Infrastructure.pdb
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\bin\Debug\net5.0\LastTest.Application.dll
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\bin\Debug\net5.0\LastTest.Domain.dll
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\bin\Debug\net5.0\LastTest.Domain.pdb
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\bin\Debug\net5.0\LastTest.Application.pdb
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\LastTest.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\LastTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\LastTest.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\LastTest.Infrastructure.AssemblyInfo.cs
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\LastTest.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\LastTest.Infrastructure.csproj.CopyComplete
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\LastTest.Infrastructure.dll
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\refint\LastTest.Infrastructure.dll
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\LastTest.Infrastructure.pdb
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\LastTest.Infrastructure.genruntimeconfig.cache
+C:\Users\Vale2920\Desktop\University\7 quarter\Programacion Avanzada en Web\PrograAvanzadaWeb\PROYECTO\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\ref\LastTest.Infrastructure.dll
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\bin\Debug\net5.0\LastTest.Infrastructure.deps.json
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\bin\Debug\net5.0\LastTest.Infrastructure.runtimeconfig.json
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\bin\Debug\net5.0\LastTest.Infrastructure.runtimeconfig.dev.json
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\bin\Debug\net5.0\LastTest.Infrastructure.dll
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\bin\Debug\net5.0\LastTest.Infrastructure.pdb
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\bin\Debug\net5.0\LastTest.Application.dll
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\bin\Debug\net5.0\LastTest.Domain.dll
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\bin\Debug\net5.0\LastTest.Domain.pdb
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\bin\Debug\net5.0\LastTest.Application.pdb
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\LastTest.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\LastTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\LastTest.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\LastTest.Infrastructure.AssemblyInfo.cs
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\LastTest.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\LastTest.Infrastructure.csproj.CopyComplete
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\LastTest.Infrastructure.dll
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\refint\LastTest.Infrastructure.dll
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\LastTest.Infrastructure.pdb
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\LastTest.Infrastructure.genruntimeconfig.cache
+C:\Users\valek\Downloads\SC-701_II-PARCIAL_MORALES_GAMBOA_VALERIA\LastTest_VM\LastTest.Infrastructure\obj\Debug\net5.0\ref\LastTest.Infrastructure.dll

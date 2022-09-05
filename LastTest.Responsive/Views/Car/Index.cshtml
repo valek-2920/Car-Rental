@@ -1,0 +1,47 @@
+﻿@model List<Car>
+
+@{
+    ViewData["Title"] = "Car Management";
+}
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary">Lista de Carros</h2>
+		</div>
+        <div class="col-5 text-end">
+            <a asp-controller="Car" asp-action="Upsert" class="btn btn-primary">
+               <i class="bi bi-plus-circle"></i> &nbsp; Insertar nuevo carro
+			</a>
+		</div>
+	</div>
+    <br /><br />
+
+<table  class="table table-bordered table-striped" style="width:100%">
+    <thead>
+        <tr>
+            <th>Placa</th>
+            <th>Modelo</th>
+            <th>Marca</th>
+            <th>Año de Fabricación</th>
+            <th></th>
+		</tr>
+	</thead>
+    <tbody>
+        @foreach (var item in Model)
+            {
+                <tr>
+                            <td>@item.Placa</td>
+                            <td>@item.Modelo</td>
+                            <td>@item.Marca</td>
+                            <td>@item.AnnoFabricacion</td>
+                            <td style="text-align:center">
+                                  <a asp-controller="Car" asp-action="Upsert" asp-route-id="@item.Placa"
+                                   class="btn btn-primary mx-2"> <i class="bi bi-pencil-square"></i> Editar </a>
+                            </td>
+                          </tr>
+            }
+    </tbody>
+</table>
+</div>
+
